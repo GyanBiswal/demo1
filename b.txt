@@ -1,0 +1,10 @@
+hello
+how r you ?
+exit
+
+q
+quit
+by^D
+
+exit
+
